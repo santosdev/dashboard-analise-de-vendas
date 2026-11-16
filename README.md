@@ -44,10 +44,10 @@ Desenvolver um dashboard interativo para analisar o desempenho comercial de uma 
 ```text
 Dashboard-Analise-de-Vendas/
 │
-├── Dashboard_SantosDev.pbix
 ├── Base_Vendas.xlsx
-├── Imagem_Dashboard.jpeg
+├── Dashboard_SantosDev.pbix
 ├── Escopo_DashBoard.png
+├── Imagem_Dashboard.jpeg
 └── README.md
 ```
 
