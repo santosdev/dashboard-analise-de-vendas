@@ -75,6 +75,6 @@ dashboard-analise-de-vendas/
 
 ## Autor
 
-Feito por **Fabio Henrique Martins** — SantosDev.
+Feito por **Fabio Henrique Martins** - SantosDev.
 
 [![GitHub](https://img.shields.io/badge/GitHub-santosdev-181717?style=flat&logo=github)](https://github.com/santosdev)
