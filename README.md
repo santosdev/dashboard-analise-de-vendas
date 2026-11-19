@@ -49,10 +49,10 @@ Antes de abrir o Power BI, desenhei o fundo do painel com a identidade visual da
 
 ## Ferramentas
 
-- **Excel** – organização e preparação da base
-- **Power BI Desktop** – modelagem, medidas DAX e visualizações
-- **Power Query** – tratamento dos dados antes de carregar no modelo
-- **Figma / Canva** – criação do fundo e do layout do painel
+- **Excel** - organização e preparação da base
+- **Power BI Desktop** - modelagem, medidas DAX e visualizações
+- **Power Query** - tratamento dos dados antes de carregar no modelo
+- **Figma / Canva** - criação do fundo e do layout do painel
 
 ## Como abrir
 
